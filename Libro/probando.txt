@@ -1,2 +1,1 @@
-hola como va
-todo bien
+ejemplo del git add
